@@ -37,6 +37,8 @@ Enfin, une évaluation permettra de valider ce module.
 |-|13h30-15h00|TP|
 |-|15h15-16h45|EI|
 
+📧 nicolas.sanch@protonmail.com
+
 ___
 
 ## Introduction
@@ -52,6 +54,8 @@ ___
 ## [3 - Les branches](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/3_Branches/README.md)
 
 ## [4 - Les dépôts distants](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/4_Depots_distants/README.md)
+
+## [TP1](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/TP1/README.md)
 
 ___
 
