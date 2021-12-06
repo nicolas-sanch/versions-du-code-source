@@ -33,6 +33,12 @@ git add mon_fichier  # Pour ajouter le fichier "mon_fichier"
 git add -A           # Pour ajouter tous les fichiers
 ```
 
+## Retirer des fichiers de l'index
+
+```sh
+git restore --staged <file>
+```
+
 ## Ajouter des fichiers au dépôt
 
 ```sh
