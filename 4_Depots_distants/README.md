@@ -42,6 +42,12 @@ git fetch            # Télécharge les commits
 git merge FETCH_HEAD # Intègre les modifications dans la branche locale
 ```
 
+## Lister les dépôts distants liés au dépôt local
+
+```sh
+git remote
+```
+
 ---
 
 ⬅️ [3_Branches](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/3_Branches/README.md) | [TP1](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/TP1/README.md)  ➡️

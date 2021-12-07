@@ -80,6 +80,21 @@ git reset notreCommitCible --mixed                 # Permet de revenir juste apr
 git reset notreCommitCible --soft # Permet de se placer sur un commit spécifique afin de voir le code à un instant donné
 ```
 
+### Modifier le message du précédent commit
+
+```sh
+git commit --amend -m "Test" # Modifie le message du précédent commit
+```
+
+### Mettre de côté ses modifications avec Git stash
+
+```sh
+git stash --include-untracked # Sauvegarde le répertoire de travail et l'index
+git stash list                # Liste les stashs d'un dépôt
+git stash apply stash@{0}     # Récupère les modifications contenues dans le dernier stash
+git stash drop stash@{0}      # Supprime le stash
+```
+
 ---
 
 ⬅️ [1_Configuration](https://github.com/nicolas-sanch/versions-du-code-source/1_Configuration/blob/main/README.md) | [3_Branches](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/3_Branches/README.md)  ➡️

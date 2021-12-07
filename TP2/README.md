@@ -38,7 +38,7 @@ Les membres doivent passer par l'étape _fork_ et _pull request_ pour transmettr
 Une des façon de faire est la suivante :
 * les membres commencent par cloner le dépôt de admin-git
 * ils modifient le fichier local et commit
-* ils retournent sur github pour créer un fork
+* ils retournent sur github pour créer un [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 * ils déclarent un nouveau remote```git remote add mine https://xxxxxxxx```
 * les membres peuvent pousser sur leur fork et créer un pull request pour demander au leader d'intégrer leur contribution
 <br/>
