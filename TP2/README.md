@@ -35,6 +35,8 @@
 * admin-git créé un nouveau dépôt github vide
 * il pousse son dépôt local sur github
 Les membres doivent passer par l'étape _fork_ et _pull request_ pour transmettre leur contribution.<br/>
+[Les pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)<br/>
+[Effectuer un pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)<br/>
 Une des façon de faire est la suivante :
 * les membres commencent par cloner le dépôt de admin-git
 * ils modifient le fichier local et commit
