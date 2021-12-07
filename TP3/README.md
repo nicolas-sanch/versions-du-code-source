@@ -1,6 +1,6 @@
 # TP
 
-## Utilisation de Git stash
+## I - Utilisation de Git stash
 
 ```git stash```va garder toutes les modifications de côté. Elles ne seront plus présentes dans le répertoire de travail et l'index, elles ne seront pas non plus présentes dans l'historique
 
@@ -38,7 +38,7 @@ git stash apply stash@{0} # Récupérer les modifications
 git stash drop stash@{0}  # Supprimer le stash
 ```
 
-## Création d'un dépôt distant pour un projet existant
+## II - Création d'un dépôt distant pour un projet existant
 
 ```sh
 mkdir local
@@ -54,3 +54,8 @@ git clone --bare ../local/.git clone_distant
 cd clone_distant
 git log
 ```
+
+## III - Fork du cours
+
+La commande ```git diff``` et son utilisation n'est pas présente dans le cours.<br/>
+* Forker le cours et ajouter cette notion à votre cours

@@ -68,6 +68,12 @@ git branch -M main
 git push -u origin main
 ```
 
+## Les pull request
+
+* [Atlassian (Bitbucket) - Créer une pull request](https://www.atlassian.com/fr/git/tutorials/making-a-pull-request)
+* [Pull request en tant que collaborateur Github](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+* [Effectuer un pull request sans être collaborateur du projet Github](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)<br/>
+
 ---
 
 ⬅️ [3_Branches](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/3_Branches/README.md) | [TP1](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/TP1/README.md)  ➡️
