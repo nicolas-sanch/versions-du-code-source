@@ -59,3 +59,12 @@ git log
 
 La commande ```git diff``` et son utilisation n'est pas présente dans le cours.<br/>
 * Forker le cours et ajouter cette notion à votre cours
+[Documentation git diff](https://git-scm.com/docs/git-diff)<br/><br/>
+
+Des exemples de son utilisation sont :<br/>
+* Afficher les différences en cours dans le répertoire
+* Afficher les différences entre l'index et HEAD
+* Afficher les différences entre le répertoire de travail et HEAD
+* Affihcer les différences introduites par un ou plusieurs commits
+* Visualiser les différences de mots
+* Visualiser les blocks de code déplacés
