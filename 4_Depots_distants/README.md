@@ -48,6 +48,26 @@ git merge FETCH_HEAD # Intègre les modifications dans la branche locale
 git remote
 ```
 
+## Pour créer un nouveau répertoire en ligne de commande
+
+```sh
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/xxxxx-xxxxxx/repo-example.git.  # Remplacer avec l'url de son projet
+git push -u origin main
+```
+
+## Pour pousser un dépôt existant
+
+```sh
+git remote add origin https://github.com/xxxxx-xxxxxx/repo-example.git.  # Remplacer avec l'url de son projet
+git branch -M main
+git push -u origin main
+```
+
 ---
 
 ⬅️ [3_Branches](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/3_Branches/README.md) | [TP1](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/TP1/README.md)  ➡️
