@@ -59,6 +59,10 @@ ___
 
 ## [TP2](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/TP2/README.md)
 
+## [TP3](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/TP3/README.md)
+
+## [TP4](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/TP4/README.md)
+
 * [Télécharger SourceTree](https://www.atlassian.com/fr/software/sourcetree)
 
 ___
