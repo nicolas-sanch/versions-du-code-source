@@ -24,15 +24,15 @@ Enfin, une évaluation permettra de valider ce module.
 
 |Jour|Horaire|Contenu|
 |---|---|---|
-|Lundi|08h30-10h00|C|
+|Jour 1|08h30-10h00|C|
 |-|10h30-12h00|C|
 |-|13h30-15h00|C|
 |-|15h15-16h45|C|
-|Mardi|08h30-10h00|TP|
+|Jour 2|08h30-10h00|TP|
 |-|10h30-12h00|TP|
 |-|13h30-15h00|TP|
 |-|15h15-16h45|TP|
-|Mercredi|08h30-10h00|TP|
+|Jour 3|08h30-10h00|TP|
 |-|10h30-12h00|TP|
 |-|13h30-15h00|TP|
 |-|15h15-16h45|EI|
