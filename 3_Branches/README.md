@@ -35,8 +35,9 @@ Leur fonctionnement est illustré dans l'article [Branches et fusions](https://g
 
 ```sh
 git checkout master
-git merge ma-branche       # Fusionne le contenu de ma-branche dans master
-git branch -d ma-branch    # Supprime la branche ma-branche (généralement réalisé après une fusion)
+git merge <ma-branche>                # Fusionne le contenu de ma-branche dans master
+git branch -d <ma-branch>             # Supprime la branche ma-branche (généralement réalisé après une fusion)
+git push origin --delete <ma-branch>  # Supprime la branch ma-branche sur le répertoire distant 
 ```
 
 Lorsque l’on cherche à fusionner un commit qui peut être atteint en parcourant l’historique depuis le commit d’origine, Git se contente d’avancer le pointeur car il n’y a pas de travaux divergents à fusionner — ceci s’appelle un _fast-forward_ (avance rapide).<br/>
