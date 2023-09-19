@@ -12,6 +12,15 @@ git --version
 ### Sous MacOS ou Windows
 * [git-scm.com](https://git-scm.com)
 
+Le programme d'installation nous demande de choisir notre éditeur texte préféré :
+![Git_install_editor.png](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/1_Configuration/Git_install_editor.png)
+
+New ! Nous pouvons choisir "main" comme nom de branch par défaut.
+![Git_install_default_branch.png](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/1_Configuration/Git_install_default_branch.png)
+
+A activer pour utiliser Git depuis d'autres logiciels (IDE ...)
+![Git_install_3rd-party_software.png](https://github.com/nicolas-sanch/versions-du-code-source/blob/main/1_Configuration/Git_install_3rd-party_software.png)
+
 ### Configuration minimale
 ```sh
 git config --global user.name "Prenom nom"

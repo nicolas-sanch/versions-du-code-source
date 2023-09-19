@@ -8,7 +8,7 @@ git init # Initialise un nouveau dépôt dans le répertoire courant
 code .   # Pour ouvrir notre IDE
 ```
 
-Git créer par défaut une branche _master_ <br/>
+~~Git créer par défaut une branche _master_~~ <br/>
 Le contenu du dépôt est hébergé dans le dossier _.git_ généré<br/>
 
 Nous pouvons visualiser son contenu avec la commande ```ls -la .git```
