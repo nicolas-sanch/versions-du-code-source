@@ -4,6 +4,8 @@
 
 * Utiliser la commande checkout pour revenir à l'état du commit avec pour message _Create blue and orange pages_
 
+* 🖊️ Exécuter la commande ```git status```
+
 * Revenir à la version la plus récente et la tager en _v1.0_ avec le message _Stable version of the website_
 
 * Créer un fichier poc.html avec le contenu suivant
