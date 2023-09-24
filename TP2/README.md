@@ -24,7 +24,7 @@
 
 ## II - Avec les droits en écriture
 
-* admin-git invite les autres memebres du groupe (ils doivent communiquer leur id github)<br/>
+* admin-git invite les autres membres du groupe (ils doivent communiquer leur id github)<br/>
 [Permissions sur Github](https://docs.github.com/en/get-started/learning-about-github/access-permissions-on-github)
 * il donne les droits en écriture sur le dépôt au membres
 * les membres clônent le dépôt en local
