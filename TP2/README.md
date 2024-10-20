@@ -7,7 +7,7 @@
 
 ## I - Mise en place
 
-* admin-git créé un dépôt local
+* admin-git créer un dépôt local
 * il ajoute un fichier README.md avec le contenu suivant et commit
 ```txt
 01 Nom:
